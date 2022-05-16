@@ -1,0 +1,16 @@
+C:\Users\vovas\OneDrive\Рабочий стол\common\sstu\4 семестр\Проектирование человеко-машинного интерфейса\GameByInterfaces\GameByInterfaces\bin\Debug\netcoreapp3.1\GameByInterfaces.exe
+C:\Users\vovas\OneDrive\Рабочий стол\common\sstu\4 семестр\Проектирование человеко-машинного интерфейса\GameByInterfaces\GameByInterfaces\bin\Debug\netcoreapp3.1\GameByInterfaces.deps.json
+C:\Users\vovas\OneDrive\Рабочий стол\common\sstu\4 семестр\Проектирование человеко-машинного интерфейса\GameByInterfaces\GameByInterfaces\bin\Debug\netcoreapp3.1\GameByInterfaces.runtimeconfig.json
+C:\Users\vovas\OneDrive\Рабочий стол\common\sstu\4 семестр\Проектирование человеко-машинного интерфейса\GameByInterfaces\GameByInterfaces\bin\Debug\netcoreapp3.1\GameByInterfaces.runtimeconfig.dev.json
+C:\Users\vovas\OneDrive\Рабочий стол\common\sstu\4 семестр\Проектирование человеко-машинного интерфейса\GameByInterfaces\GameByInterfaces\bin\Debug\netcoreapp3.1\GameByInterfaces.dll
+C:\Users\vovas\OneDrive\Рабочий стол\common\sstu\4 семестр\Проектирование человеко-машинного интерфейса\GameByInterfaces\GameByInterfaces\bin\Debug\netcoreapp3.1\GameByInterfaces.pdb
+C:\Users\vovas\OneDrive\Рабочий стол\common\sstu\4 семестр\Проектирование человеко-машинного интерфейса\GameByInterfaces\GameByInterfaces\obj\Debug\netcoreapp3.1\GameByInterfaces.csproj.AssemblyReference.cache
+C:\Users\vovas\OneDrive\Рабочий стол\common\sstu\4 семестр\Проектирование человеко-машинного интерфейса\GameByInterfaces\GameByInterfaces\obj\Debug\netcoreapp3.1\GameByInterfaces.Form1.resources
+C:\Users\vovas\OneDrive\Рабочий стол\common\sstu\4 семестр\Проектирование человеко-машинного интерфейса\GameByInterfaces\GameByInterfaces\obj\Debug\netcoreapp3.1\GameByInterfaces.csproj.GenerateResource.cache
+C:\Users\vovas\OneDrive\Рабочий стол\common\sstu\4 семестр\Проектирование человеко-машинного интерфейса\GameByInterfaces\GameByInterfaces\obj\Debug\netcoreapp3.1\GameByInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vovas\OneDrive\Рабочий стол\common\sstu\4 семестр\Проектирование человеко-машинного интерфейса\GameByInterfaces\GameByInterfaces\obj\Debug\netcoreapp3.1\GameByInterfaces.AssemblyInfoInputs.cache
+C:\Users\vovas\OneDrive\Рабочий стол\common\sstu\4 семестр\Проектирование человеко-машинного интерфейса\GameByInterfaces\GameByInterfaces\obj\Debug\netcoreapp3.1\GameByInterfaces.AssemblyInfo.cs
+C:\Users\vovas\OneDrive\Рабочий стол\common\sstu\4 семестр\Проектирование человеко-машинного интерфейса\GameByInterfaces\GameByInterfaces\obj\Debug\netcoreapp3.1\GameByInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\vovas\OneDrive\Рабочий стол\common\sstu\4 семестр\Проектирование человеко-машинного интерфейса\GameByInterfaces\GameByInterfaces\obj\Debug\netcoreapp3.1\GameByInterfaces.dll
+C:\Users\vovas\OneDrive\Рабочий стол\common\sstu\4 семестр\Проектирование человеко-машинного интерфейса\GameByInterfaces\GameByInterfaces\obj\Debug\netcoreapp3.1\GameByInterfaces.pdb
+C:\Users\vovas\OneDrive\Рабочий стол\common\sstu\4 семестр\Проектирование человеко-машинного интерфейса\GameByInterfaces\GameByInterfaces\obj\Debug\netcoreapp3.1\GameByInterfaces.genruntimeconfig.cache
