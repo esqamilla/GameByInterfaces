@@ -58,9 +58,9 @@ namespace GameByInterfaces
             this.label2.ForeColor = System.Drawing.SystemColors.ControlText;
             this.label2.Location = new System.Drawing.Point(23, 103);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(509, 52);
+            this.label2.Size = new System.Drawing.Size(657, 52);
             this.label2.TabIndex = 1;
-            this.label2.Text = "+ еще один тестовый текст";
+            this.label2.Text = "+ ссылка на шаблоны в readme.md";
             this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // Form1
