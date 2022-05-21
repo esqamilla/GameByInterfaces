@@ -5,3 +5,6 @@
 
 Описание игры:
 *какой-то текст*
+
+Ссылка на шаблоны:
+https://vk.com/away.php?utf=1&to=https%3A%2F%2Fwww.figma.com%2Ffile%2FFGpLGNjXQ5d6GkiDB1LDCA%2F%25D0%2598%25D0%25B3%25D1%2580%25D0%25B0-%25D0%25BF%25D0%25BE-%25D0%25B8%25D0%25BD%25D1%2582%25D0%25B5%25D1%2580%25D1%2584%25D0%25B5%25D0%25B9%25D1%2581%25D0%25B0%25D0%25BC%3Fnode-id%3D0%253A1
