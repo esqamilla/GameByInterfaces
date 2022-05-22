@@ -39,6 +39,7 @@ namespace GameByInterfaces
             this.heart3 = new System.Windows.Forms.PictureBox();
             this.heart2 = new System.Windows.Forms.PictureBox();
             this.heart1 = new System.Windows.Forms.PictureBox();
+            this.button2 = new System.Windows.Forms.Button();
             this.gamePanel.SuspendLayout();
             this.heartsPanel.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pause)).BeginInit();
@@ -51,6 +52,7 @@ namespace GameByInterfaces
             // 
             // gamePanel
             // 
+            this.gamePanel.Controls.Add(this.button2);
             this.gamePanel.Controls.Add(this.button1);
             this.gamePanel.Controls.Add(this.heartsPanel);
             this.gamePanel.Dock = System.Windows.Forms.DockStyle.Fill;
@@ -156,6 +158,15 @@ namespace GameByInterfaces
             this.heart1.TabIndex = 0;
             this.heart1.TabStop = false;
             // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(170, 209);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(75, 23);
+            this.button2.TabIndex = 2;
+            this.button2.Text = "button2";
+            this.button2.UseVisualStyleBackColor = true;
+            // 
             // GameForm
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
@@ -193,6 +204,7 @@ namespace GameByInterfaces
         private System.Windows.Forms.PictureBox heart4;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.PictureBox pause;
+        private System.Windows.Forms.Button button2;
     }
 }
 
