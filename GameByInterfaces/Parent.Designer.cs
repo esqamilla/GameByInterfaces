@@ -34,9 +34,10 @@ namespace GameByInterfaces
             // 
             // testBtn1
             // 
+            this.testBtn1.Font = new System.Drawing.Font("Montserrat", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel);
             this.testBtn1.Location = new System.Drawing.Point(706, 43);
             this.testBtn1.Name = "testBtn1";
-            this.testBtn1.Size = new System.Drawing.Size(127, 48);
+            this.testBtn1.Size = new System.Drawing.Size(114, 63);
             this.testBtn1.TabIndex = 1;
             this.testBtn1.Text = "Открытие формы игры";
             this.testBtn1.UseVisualStyleBackColor = true;
@@ -46,9 +47,10 @@ namespace GameByInterfaces
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(884, 501);
+            this.ClientSize = new System.Drawing.Size(900, 540);
             this.Controls.Add(this.testBtn1);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.IsMdiContainer = true;
             this.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.MinimumSize = new System.Drawing.Size(900, 540);

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vovas\\OneDrive\\Рабочий стол\\common\\sstu\\4 семестр\\Проектирование человеко-машинного интерфейса\\test\\GameByInterfaces\\GameByInterfaces.csproj": {}
+    "C:\\Users\\vovas\\OneDrive\\Рабочий стол\\common\\sstu\\4 семестр\\Проектирование человеко-машинного интерфейса\\GameByInterfaces\\GameByInterfaces\\GameByInterfaces.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vovas\\OneDrive\\Рабочий стол\\common\\sstu\\4 семестр\\Проектирование человеко-машинного интерфейса\\test\\GameByInterfaces\\GameByInterfaces.csproj": {
+    "C:\\Users\\vovas\\OneDrive\\Рабочий стол\\common\\sstu\\4 семестр\\Проектирование человеко-машинного интерфейса\\GameByInterfaces\\GameByInterfaces\\GameByInterfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vovas\\OneDrive\\Рабочий стол\\common\\sstu\\4 семестр\\Проектирование человеко-машинного интерфейса\\test\\GameByInterfaces\\GameByInterfaces.csproj",
+        "projectUniqueName": "C:\\Users\\vovas\\OneDrive\\Рабочий стол\\common\\sstu\\4 семестр\\Проектирование человеко-машинного интерфейса\\GameByInterfaces\\GameByInterfaces\\GameByInterfaces.csproj",
         "projectName": "GameByInterfaces",
-        "projectPath": "C:\\Users\\vovas\\OneDrive\\Рабочий стол\\common\\sstu\\4 семестр\\Проектирование человеко-машинного интерфейса\\test\\GameByInterfaces\\GameByInterfaces.csproj",
+        "projectPath": "C:\\Users\\vovas\\OneDrive\\Рабочий стол\\common\\sstu\\4 семестр\\Проектирование человеко-машинного интерфейса\\GameByInterfaces\\GameByInterfaces\\GameByInterfaces.csproj",
         "packagesPath": "C:\\Users\\vovas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vovas\\OneDrive\\Рабочий стол\\common\\sstu\\4 семестр\\Проектирование человеко-машинного интерфейса\\test\\GameByInterfaces\\obj\\",
+        "outputPath": "C:\\Users\\vovas\\OneDrive\\Рабочий стол\\common\\sstu\\4 семестр\\Проектирование человеко-машинного интерфейса\\GameByInterfaces\\GameByInterfaces\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vovas\\AppData\\Roaming\\NuGet\\NuGet.Config",
